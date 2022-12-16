@@ -15,5 +15,5 @@
     "fs-extra": "^11.1.0",
     "moment-timezone": "^0.5.40"
   },
-  "engines": { "node" : ">=16", "npm": ">=8" }
+  "engines": { "node" : ">=19", "npm": ">=9" }
 }
